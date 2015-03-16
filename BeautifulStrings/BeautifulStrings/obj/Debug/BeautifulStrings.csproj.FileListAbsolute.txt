@@ -1,6 +1,0 @@
-c:\users\ryan\documents\visual studio 2013\Projects\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.exe.config
-c:\users\ryan\documents\visual studio 2013\Projects\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.exe
-c:\users\ryan\documents\visual studio 2013\Projects\BeautifulStrings\BeautifulStrings\bin\Debug\BeautifulStrings.pdb
-c:\users\ryan\documents\visual studio 2013\Projects\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.exe
-c:\users\ryan\documents\visual studio 2013\Projects\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.pdb
-c:\users\ryan\documents\visual studio 2013\Projects\BeautifulStrings\BeautifulStrings\obj\Debug\BeautifulStrings.csprojResolveAssemblyReference.cache
