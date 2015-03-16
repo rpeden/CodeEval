@@ -23,6 +23,10 @@ namespace BeautifulStrings
             }
         }
 
+        /// <summary>
+        /// Calculate the beauty of a string and write its beauty value to the console.
+        /// </summary>
+        /// <param name="hopefullyNotUgly">the string to to calculate the beauty of</param>
         static void CalculateStringBeauty(string hopefullyNotUgly)
         {
             var characterCounts = new Dictionary<char, int>();
